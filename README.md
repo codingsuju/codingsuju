@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suju Daimary</h1>
+<h1 align="center">Hi 👋, I'm Suju Daimary </h1>
 <h3 align="center">I am a programming learner, always struggling to keep myself updated to latest tools and techs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingsuju&label=Profile%20views&color=0e75b6&style=flat" alt="codingsuju" /> </p>
