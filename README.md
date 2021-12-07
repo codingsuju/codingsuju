@@ -27,6 +27,8 @@
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
    <a href="https://devhints.io/bash" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
+   <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="40" height="40"/> </a>
+   <a href="https://www.tutorialspoint.com/batch_script/index.htm" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Batch_file_icon.png" alt="Bash" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Build System and Tools:</h3>
 <p align="left"> 
