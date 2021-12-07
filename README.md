@@ -29,8 +29,8 @@
 </p>
 <h3 align="left">Build System and Tools:</h3>
 <p align="left"> 
-   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" alt="sqlite" width="40" height="40"/> </a>
-   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://pl.wikipedia.org/wiki/CMake#/media/Plik:Cmake.svg" alt="sqlite" width="40" height="40"/> </a>
+   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" alt="Gradle" width="40" height="40"/> </a>
+   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://pl.wikipedia.org/wiki/CMake#/media/Plik:Cmake.svg" alt="Cmake" width="40" height="40"/> </a>
    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
