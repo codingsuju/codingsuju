@@ -30,8 +30,4 @@
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingsuju&show_icons=true&locale=en&layout=compact" alt="codingsuju" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingsuju&show_icons=true&locale=en" alt="codingsuju" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingsuju&" alt="codingsuju" /></p>
