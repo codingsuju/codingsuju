@@ -1,20 +1,7 @@
-<h1 align="center">Hi 👋, I'm Suju Daimary </h1>
+<h1 align="center">Hi 👋, I'm WDL </h1>
 <h3 align="center">I am a programming learner, always struggling to keep myself updated to latest tools and techs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingsuju&label=Profile%20views&color=0e75b6&style=flat" alt="codingsuju" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingsuju" alt="codingsuju" /></a> </p>
-
-- 📝 I regularly write articles on [https://computationalcodebook.blogspot.com/](https://computationalcodebook.blogspot.com/)
-
-- ⚡ Fun fact **I think I am just a normal person than a programmer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/17427069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17427069" height="30" width="40" /></a>
-<a href="https://instagram.com/_suju._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_suju._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codingsuju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codingsuju" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Programming and Scripting:</h3>
 <p align="left"> 
