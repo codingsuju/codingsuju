@@ -18,6 +18,7 @@
 <p align="left"> 
    <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40"/> </a>
    <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png" alt="Cmake" width="55" height="40"/> </a>
+   <a href="https://ninja-build.org/" target="_blank" rel="noreferrer"> <img src="" alt="Ninja" width="40" height="40"/> </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
    <a href="https://developer.android.com/studio/intro" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="Android Studio" width="40" height="40"/> </a>
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
